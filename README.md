@@ -42,7 +42,7 @@ An end-to-end machine learning project that classifies customers into **Poor**, 
 ├── user-data.sh               # EC2 bootstrap script (installs & starts the app)
 ├── exploration.ipynb          # Exploratory data analysis
 ├── requirements.txt
-├── artifacts/                 # best_model.pkl (generated)
+├── artifact/                  # best_model.pkl (generated)
 └── ingested/                  # ingested data copy (generated)
 ```
 
